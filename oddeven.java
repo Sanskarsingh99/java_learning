@@ -6,6 +6,7 @@ public class oddeven {
         if(x%2==0){
             System.out.println("even");}
             else{
+                // jfjfjfj
                 System.out.println("odd");
             }
         }
